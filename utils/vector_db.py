@@ -15,7 +15,7 @@ def get_google_embeddings():
     return thread_local.google
 
 class VectorDB:
-    def __init__(self, collection_name: str, embedding_length: int, google_api_key: str,working_dir: str = None, documents= None):
+    def __init__(self, collection_name: str, embedding_length: int, google_api_key: str, working_dir: str = None, documents= None):
         """Initialize ChromaDB with LangChain integration
         
         Args:
