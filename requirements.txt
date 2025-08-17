@@ -9,3 +9,6 @@ torch
 transformers
 scikit-learn
 tqdm
+hf_xet
+ipywidgets
+sentence_transformers
