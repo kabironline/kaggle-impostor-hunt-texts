@@ -1,3 +1,11 @@
 langchain-google-genai
 langchain-chroma
 chromadb
+numpy
+pandas
+nltk
+python-dotenv
+torch
+transformers
+scikit-learn
+tqdm
