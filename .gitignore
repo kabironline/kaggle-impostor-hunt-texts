@@ -5,6 +5,7 @@ __pycache__/
 
 data/
 chroma_db/
+predictions.csv
 
 # C extensions
 *.so

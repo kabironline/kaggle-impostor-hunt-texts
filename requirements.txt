@@ -12,3 +12,4 @@ tqdm
 hf_xet
 ipywidgets
 sentence_transformers
+tiktoken
